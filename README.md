@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aditya Badola
 
-<!--
-**theadityabadola/theadityabadola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder, writer, geopolitics thinker. Based in India.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Geopolitical Power Map](https://geo.adityabadola.com)** — Interactive D3.js map ranking 160+ nations by geopolitical standing
+- **[Arthnova](https://arthnova.com)** — Business and strategy publication
+
+## Stack I work with
+
+D3.js · TopoJSON · Vanilla JS · HTML/CSS · WordPress
+
+## Find me
+
+[adityabadola.com](https://adityabadola.com) · [LinkedIn](https://linkedin.com/in/adityabadola)
